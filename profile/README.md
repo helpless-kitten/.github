@@ -1,38 +1,10 @@
+
+<h1 align="center">Pandemonium</h1>
 <p align="center">
   <img src="./assets/pandemonium-banner.png" alt="Pandemonium - The capital of organized chaos">
 </p>
 
-<h1 align="center">Pandemonium</h1>
-
-<h3 align="center">The capital of organized chaos.</h3>
-
-<div align="center">
-
-  <a href="https://github.com/helpless-kitten/Pandemonium">
-    <img src="https://img.shields.io/badge/Core-Pandemonium-ff4fb8?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Daemon-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Surface-Web%20UI%20%2F%20TUI%20%2F%20Discord-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Future-Mobile%20Collector-ff8ad8?style=for-the-badge">
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/helpless-kitten/Pandemonium/blob/master/docs/operations.md">Operations</a>
-  -
-  <a href="https://github.com/helpless-kitten/Pandemonium/blob/master/docs/daemon-modules.md">Modules</a>
-  -
-  <a href="https://github.com/helpless-kitten/Pandemonium/blob/master/docs/module-protocol.md">Protocol</a>
-  -
-  <a href="https://github.com/helpless-kitten/Pandemonium/blob/master/docs/configuration.md">Configuration</a>
-  -
-  <a href="https://github.com/helpless-kitten/Pandemonium/blob/master/docs/linux-deployment.md">Deploy</a>
-
-</div>
+<h3 align="center">Automate modern survival. Protect modern living. For time, and all time.</h3>
 
 <br>
 
@@ -57,17 +29,7 @@ of scripts named `final-final-real-this-time.js`.
 
 The rule is simple:
 
-> **Modules own their domain.  
-> The daemon owns the room.**
-
-Calendar does calendar things.  
-Public Transport does transit things.  
-Finance does receipt and payment things.  
-Yapbridge does ChatGPT/Discord bridge things.  
-Work turns schedule reality into commute decisions.
-
-No module gets to quietly steal another module’s secrets.  
-No integration gets to become the whole city.
+**Modules own their domain. The daemon owns the room.**
 
 <br clear="right">
 
@@ -214,20 +176,12 @@ The module boundary is not decorative.
 Pandemonium is what happens when automation stops being a pile of scripts and
 starts becoming a governed system.
 
-Small modules.  
-Explicit contracts.  
-Scoped secrets.  
-Visible state.  
-No silent cross-talk.
+Small modules.  Explicit contracts.  Scoped secrets.  Visible state.  No silent cross-talk.
 
 <div align="center">
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="25" alt="">
+</div>
 
-<br>
-
-**One system. All your chaos. Perfectly orchestrated.**
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="25" alt="">
-
+<div align="center">
+  <sub>One system. All your chaos. Perfectly orchestrated.</sub>
 </div>
