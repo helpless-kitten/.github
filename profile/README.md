@@ -26,7 +26,7 @@ The code usually isn't.
 
 # Featured Projects
 
-## 🔥 Pandemonium
+## 🔥 Pandemonium (Currently Private)
 
 The flagship project.
 
